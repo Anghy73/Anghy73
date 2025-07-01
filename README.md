@@ -2,10 +2,22 @@
   <img src="https://i.pinimg.com/originals/e1/4c/3a/e14c3af63cf4f822f105ae552f851888.gif" width="100%" height="400" alt="Animated GIF" />
 </p>
 
-<h1 align="center"><span>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Andy Ruz</span></h1>
+<h1 align="center"><span>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Andy Ruz</span>
+	<p align="center" style="font-size: 30px; font-weight: bold;">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;Programmer+Analyst;Autodidact" alt="Typing SVG" />
+	</p>
+</h1></br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="25"><b> About me</b>
 <br>
+
+📍 Based in <strong>Los Ángeles, Chile</strong></br>
+🎓 Graduated with the title of programmer analyst from the Technological University of Chile INACAP<br>
+🔭 I'm currently learning and building projects for to upgrade mi skills like developer.<br>
+🌱 Currently learning <strong>Next.js and Nest.js</strong>
+</br>
+</br>
+</br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Technologies</b>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +29,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<br></br>
+</br>
+</br>
+</br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25"><b> Stats</b>
 <br>
