@@ -33,6 +33,41 @@
 </table>
 </p>
 
+## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25"><b> Latest Repositories</b>
+<br>
+<p align="center">
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+  <div>
+    <a href="https://github.com/anghy73/matching-engine-rs">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anghy73&repo=quizgen&hide_border=true&theme=dark&show_icons=true" />
+	  </a>
+  </div>
+  <br></br>
+  <div>
+    <a href="https://github.com/anghy73/matching-engine-rs">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anghy73&repo=pokemonapi&hide_border=true&theme=dark&show_icons=true" />
+	  </a>
+  </div>
+</td>
+  <td width="50%" align="center">
+  <div>
+    <a href="https://github.com/anghy73/matching-engine-rs">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anghy73&repo=zustand-MUI-todos&hide_border=true&theme=dark&show_icons=true" />
+	  </a>
+  </div>
+  <br></br>
+  <div>
+    <a href="https://github.com/anghy73/matching-engine-rs">
+		  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anghy73&repo=portafolio-v1.0&hide_border=true&theme=dark&show_icons=true" />
+	  </a>
+  </div>
+  </td>
+</tr>
+</table>
+</p>
+
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
